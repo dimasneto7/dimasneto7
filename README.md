@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! Welcome to my profile!
 
-My name is Dimas Neto. I'm a Front-end Developer with knowledge in ReactJs, NodeJs and NodeJs.
+My name is Dimas Neto. I'm a Front-end Developer with knowledge in ReactJs, NodeJs and React Native.
 And I also have a degree in Advertising.
 
 </a>
